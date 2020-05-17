@@ -1,0 +1,27 @@
+.egitim
+{
+    color: #ffffff;
+    font-size: 25px;
+    background-color: #c70d3a;
+    -webkit-box-shadow: 15px 15px 90px 15px #c70d3a;
+    -moz-box-shadow: 15px 15px 90px 15px #c70d3a;
+    box-shadow: 15px 15px 90px 15px #c70d3a;
+}
+.is
+{
+    color: #ffffff;
+    font-size: 25px;
+    background-color: #4dd599;
+}
+.projelerim
+{
+    color: #ffffff;
+    font-size: 25px;
+    background-color: #740097;
+}
+.cardgolge
+{
+    -webkit-box-shadow: 15px 15px 90px 15px #740097;
+    -moz-box-shadow: 15px 15px 90px 15px #740097;
+    box-shadow: 15px 15px 90px 15px #740097;
+}

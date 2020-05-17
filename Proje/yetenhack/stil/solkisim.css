@@ -1,0 +1,234 @@
+.golge
+{
+    -webkit-box-shadow: 15px 15px 90px 15px #46b5d1;
+    -moz-box-shadow: 15px 15px 90px 15px #46b5d1;
+    box-shadow: 15px 15px 90px 15px #46b5d1;
+}
+.telefon
+{
+    background-color: #c70d3a;
+    color: #000000;
+    text-align: center;
+    font-family: cursive;
+    font-size: 15px;
+    border-right: 15px solid #000000;
+}
+.telefon:hover
+{
+    transition: 0.8s;
+    background-color: #000000;
+    color: #ffffff;
+    text-align: center;
+    font-family: cursive;
+    font-size: 18px;
+    border-right: 15px solid #ffffff;
+    border-left: 15px solid #c70d3a;
+
+}
+.ikametgah
+{
+    background-color: #ffa259;
+    color: #000000;
+    text-align: center;
+    font-family: cursive;
+    font-size: 15px;
+    border-right: 15px solid #000000;
+}
+.ikametgah:hover
+{
+    transition: 0.8s;
+    background-color: #000000;
+    color: #ffffff;
+    text-align: center;
+    font-family: cursive;
+    font-size: 18px;
+    border-right: 15px solid #ffffff;
+    border-left: 15px solid #ffa259;
+
+}
+.mail
+{
+    background-color: #4dd599;
+    color: #000000;
+    text-align: center;
+    font-family: cursive;
+    font-size: 15px;
+    border-right: 15px solid #000000;
+}
+.mail:hover
+{
+    transition: 0.8s;
+    background-color: #000000;
+    color: #ffffff;
+    text-align: center;
+    font-family: cursive;
+    font-size: 18px;
+    border-right: 15px solid #ffffff;
+    border-left: 15px solid #4dd599;
+}
+
+.yabancidil
+{
+    color: #ffffff;
+    font-size: 20px;
+    background-color: #000000;
+    -webkit-box-shadow: 1px 15px 45px 0px rgb(255, 255, 255);
+    -moz-box-shadow: 1px 15px 45px 0px rgb(255, 255, 255);
+    box-shadow: 1px 15px 45px 0px rgb(255, 255, 255);
+}
+.yabancidil h3
+{
+    color: #ffa259;
+}
+.yabancidilcubuk
+{
+    background-color: #ffa259;
+    color: black;
+}
+
+.sosyal
+{
+    border: 5px solid black;
+    font-size: 20px;
+    -webkit-box-shadow: 1px 15px 45px 0px rgba(255,191,0,1);
+-moz-box-shadow: 1px 15px 45px 0px rgba(255,191,0,1);
+box-shadow: 1px 15px 45px 0px rgba(255,191,0,1);
+}
+.github
+{
+    text-decoration: none;
+    color:rgb(0, 0, 0);
+}
+.github:hover
+{
+    transition: 0.4s;
+    font-size: 30px;
+    text-decoration: none;
+    color: white;
+    background-color: black;
+    padding: 10px;
+    border-radius: 15px;
+    -webkit-box-shadow: 1px 15px 45px 0px rgb(0, 0, 0);
+    -moz-box-shadow: 1px 15px 45px 0px rgb(0, 0, 0);
+    box-shadow: 1px 15px 45px 0px rgb(0, 0, 0);
+
+}
+.linkedin
+{
+    text-decoration: none;
+    color:rgb(0, 0, 139);
+}
+.linkedin:hover
+{
+    transition: 0.4s;
+    font-size: 30px;
+    text-decoration: none;
+    color: white;
+    background-color: black;
+    padding: 10px;
+    border-radius: 15px;
+    -webkit-box-shadow: 1px 15px 45px 0px rgb(0, 0, 139);
+    -moz-box-shadow: 1px 15px 45px 0px rgb(0, 0, 139);
+    box-shadow: 1px 15px 45px 0px rgb(0, 0, 139);
+
+}
+.facebook
+{
+    text-decoration: none;
+    color:rgb(0, 0, 245);
+}
+.facebook:hover
+{
+    transition: 0.4s;
+    font-size: 30px;
+    text-decoration: none;
+    color: white;
+    background-color: black;
+    padding: 10px;
+    border-radius: 15px;
+    -webkit-box-shadow: 1px 15px 45px 0px rgb(0, 0, 245);
+-moz-box-shadow: 1px 15px 45px 0px rgb(0, 0, 245);
+box-shadow: 1px 15px 45px 0px rgb(0, 0, 245);
+}
+.reddit
+{
+    text-decoration: none;
+    color: rgb(255, 0, 0);
+}
+.reddit:hover
+{
+    transition: 0.4s;
+    font-size: 30px;
+    text-decoration: none;
+    color: white;
+    background-color: black;
+    padding: 10px;
+    border-radius: 15px;
+    -webkit-box-shadow: 1px 15px 45px 0px rgb(255, 0, 0);
+    -moz-box-shadow: 1px 15px 45px 0px rgb(255, 0, 0);
+    box-shadow: 1px 15px 45px 0px rgb(255, 0, 0);
+}
+.instagram
+{
+    text-decoration: none;
+    color: rgb(214, 8, 214);
+}
+.instagram:hover
+{
+    transition: 0.4s;
+    font-size: 30px;
+    text-decoration: none;
+    color: white;
+    background-color: black;
+    padding: 10px;
+    border-radius: 15px;
+    -webkit-box-shadow: 1px 15px 45px 0px rgb(214, 8, 214);
+    -moz-box-shadow: 1px 15px 45px 0px rgb(214, 8, 214);
+    box-shadow: 1px 15px 45px 0px rgb(214, 8, 214);
+}
+.twitter
+{
+    text-decoration: none;
+    color: rgb(54, 54, 245);
+}
+.twitter:hover
+{
+    transition: 0.4s;
+    font-size: 30px;
+    text-decoration: none;
+    color: white;
+    background-color: black;
+    padding: 10px;
+    border-radius: 15px;
+    -webkit-box-shadow: 1px 15px 45px 0px rgb(54, 54, 245);
+    -moz-box-shadow: 1px 15px 45px 0px rgb(54, 54, 245);
+    box-shadow: 1px 15px 45px 0px rgb(54, 54, 245);
+}
+.pinterest
+{
+    text-decoration: none;
+    color: rgb(187, 0, 16);
+}
+.pinterest:hover
+{
+    transition: 0.4s;
+    font-size: 30px;
+    text-decoration: none;
+    color: white;
+    background-color: black;
+    padding: 10px;
+    border-radius: 15px;
+    -webkit-box-shadow: 1px 15px 45px 0px rgb(187, 0, 16);
+    -moz-box-shadow: 1px 15px 45px 0px rgb(187, 0, 16);
+    box-shadow: 1px 15px 45px 0px rgb(187, 0, 16);
+}
+.rozetler
+{
+    font-size: 25px;
+    color: blueviolet;
+}
+.rozettipi
+{
+    font-size: 40px;
+    color: gold;
+}

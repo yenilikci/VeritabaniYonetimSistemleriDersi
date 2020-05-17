@@ -1,0 +1,47 @@
+.yazilimdili
+{
+      font-size: 20px;
+    -webkit-box-shadow: 15px 15px 90px 15px #ff5e00;
+    -moz-box-shadow: 15px 15px 90px 15px #ff5e00;
+    box-shadow: 15px 15px 90px 15px #ff5e00;
+}
+.yazilimdili h3
+{
+    color: #ff5e00;
+}
+.cubuk
+{
+    background-color: #ff5e00;
+}
+.paketprogram
+{
+    font-size: 20px;
+    -webkit-box-shadow: 15px 15px 90px 15px #c70d3a;
+    -moz-box-shadow: 15px 15px 90px 15px #c70d3a;
+    box-shadow: 15px 15px 90px 15px #c70d3a;
+}
+.paketprogram h3
+{
+    color: #c70d3a;
+}
+.cubuk2
+{
+    background-color: #c70d3a;
+}
+.sosyalbeceriler
+{
+    
+    font-size: 20px;
+    -webkit-box-shadow: 15px 15px 90px 15px #4dd599;
+    -moz-box-shadow: 15px 15px 90px 15px #4dd599;
+    box-shadow: 15px 15px 90px 15px #4dd599;
+}
+.sosyalbeceriler h3
+{
+    color: #4dd599;
+
+}
+.cubuk3
+{
+    background-color: #4dd599;
+}

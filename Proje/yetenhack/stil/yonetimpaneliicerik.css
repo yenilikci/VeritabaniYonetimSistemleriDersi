@@ -1,0 +1,15 @@
+.icerik
+{
+    -webkit-box-shadow: 5px 5px 5px 5px black;
+    -moz-box-shadow: 5px 5px 5px 5px black;
+    box-shadow: 5px 5px 5px 5px black;
+}
+.ustbilgi
+{
+    background-color: blueviolet;
+    font-family: cursive;
+}
+.sayicerceve
+{
+    border: 2px solid goldenrod;
+}

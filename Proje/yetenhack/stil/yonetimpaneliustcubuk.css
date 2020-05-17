@@ -1,0 +1,13 @@
+.hosgeldiniz
+{
+    background-color: blueviolet;
+    color: white;
+    -webkit-box-shadow: 5px 5px 5px 5px black;
+    -moz-box-shadow: 5px 5px 5px 5px black;
+    box-shadow: 5px 5px 5px 5px black;
+}
+.hosgeldiniz a
+{
+    color: white;
+    font-size: 25px;
+}

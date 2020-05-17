@@ -1,0 +1,4 @@
+Kütüphane olarak:
+Bootstrap 4.4.1'i ve Fontawesome 5.11.2'yi eklemeniz gerekmektedir.
+Bootstrap klasör adı: bootstrap-4.4.1-dist
+Fontawesome klasör adı: fontawesome-free-5.11.2-web

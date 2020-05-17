@@ -1,0 +1,52 @@
+body
+{
+    background-color: black;
+}
+.sapkaarkasi
+{
+    text-align: center;
+    background-color: blueviolet;
+    color: white;
+}
+.efekt
+{
+    -webkit-box-shadow: 15px 15px 90px 15px #740097;
+    -moz-box-shadow: 15px 15px 90px 15px #740097;
+    box-shadow: 15px 15px 90px 15px #740097;
+}
+.giris
+{
+    background-color: #740097;
+    color: white;
+    padding: 5px;
+    font-size: 25px;
+    border: 2px solid black;
+    -webkit-box-shadow: 5px 5px 5px 5px black;
+    -moz-box-shadow: 5px 5px 5px 5px black;
+    box-shadow: 5px 5px 5px 5px black;
+}
+.giris:hover
+{
+    background-color: white;
+    color: #740097;
+    padding: 5px;
+    font-size: 25px;
+    border: 2px solid black;
+    -webkit-box-shadow: 5px 5px 5px 5px black;
+    -moz-box-shadow: 5px 5px 5px 5px black;
+    box-shadow: 5px 5px 5px 5px black;
+}
+.kadi
+{
+    border: 2px solid blueviolet;
+    -webkit-box-shadow: 5px 5px 5px 5px black;
+    -moz-box-shadow: 5px 5px 5px 5px black;
+    box-shadow: 5px 5px 5px 5px black;
+}
+.sifre
+{
+    border: 2px solid blueviolet;
+    -webkit-box-shadow: 5px 5px 5px 5px black;
+    -moz-box-shadow: 5px 5px 5px 5px black;
+    box-shadow: 5px 5px 5px 5px black;
+}

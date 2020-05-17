@@ -1,0 +1,24 @@
+.menu
+{
+    background-color: blueviolet;
+    -webkit-box-shadow: 5px 5px 5px 5px black;
+    -moz-box-shadow: 5px 5px 5px 5px black;
+    box-shadow: 5px 5px 5px 5px black;
+}
+.yonetimpaneli-buton
+{
+    border: 2px solid blueviolet;
+    color: #ffffff;
+    border: 2px solid #ffffff;
+    text-align: left;
+}
+.yonetimpaneli-buton:hover
+{
+    transition: 1.5s;
+    border: 2px solid #000000;
+    background-color: #ffffff;
+    color: blueviolet;
+    -webkit-box-shadow: 5px 5px 5px 5px black;
+    -moz-box-shadow: 5px 5px 5px 5px black;
+    box-shadow: 5px 5px 5px 5px black;
+}

@@ -1,0 +1,42 @@
+#preloader {
+    position:fixed;
+    top:0;
+    left:0;
+    right:0;
+    bottom:0;
+    background-color:#000; /* sayfa yüklenirken gösterilen arkaplan rengimiz */
+    z-index:99; /* efektin arkada kalmadığından emin oluyoruz */
+}
+@keyframes kayanyazi { 
+    from {
+      margin-left:100%;
+      width:300%
+    }
+    
+    to {
+      margin-left:0%;
+      width:100%;
+    }
+    }
+    
+#preloader p
+{
+    font-size: 45px;
+    color: white;
+    text-align: center;
+    animation-name: kayanyazi;
+    animation-duration: 3s;
+    animation-timing-function:ease;
+    animation-direction:alternate-reverse;
+}
+#status {
+    width:500px;
+    height:300px;
+    top: 40%;
+    left: 40%;
+    position:absolute;
+    background-image:url(http://localhost/yetenhack/resimler/yuklenmegifi.gif); 
+    background-repeat:no-repeat;
+    background-position:center;
+    margin:-100px 0 0 -100px;
+}
