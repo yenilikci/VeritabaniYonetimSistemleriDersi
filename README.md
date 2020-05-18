@@ -23,6 +23,8 @@ Veritabanı Yönetim Sistemleri Dersi Ödevleri ve Projesi
 [PostgreSQL İle Gerçeklenen Veritabanının Sql Dosyası](https://github.com/yenilikci/VeritabaniYonetimSistemleriDersi/blob/master/2.Odev/Odev2_G181210023_MuhammedMelihCelik_22A.sql "PostgreSQL İle Gerçeklenen Veritabanının Sql Dosyası")
 
 # Proje Ödevi
+![anasayfa](https://user-images.githubusercontent.com/57464067/82175859-c2b41e80-98dd-11ea-9b13-0d60f6855d13.gif)
+
 > Teslim Tarihi: 16 Ara 2019
 
 **Proje Açıklaması ve Görevler:**
