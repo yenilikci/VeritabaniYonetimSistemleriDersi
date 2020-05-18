@@ -32,6 +32,10 @@ Veritabanı Yönetim Sistemleri Dersi Ödevleri ve Projesi
 
 ![giriş](https://user-images.githubusercontent.com/57464067/82176529-ae712100-98df-11ea-8810-ed2aebc1ea5a.gif)
 
+#### Valentina Studio - MySQL
+
+![veritabanı](https://user-images.githubusercontent.com/57464067/82178046-c5197700-98e3-11ea-80cb-b76d465b2a60.gif)
+
 > Teslim Tarihi: 16 Ara 2019
 
 **Proje Açıklaması ve Görevler:**
